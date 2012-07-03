@@ -1,4 +1,7 @@
-design-and-banter
+# design-and-banter
 =================
 
-A curated collection of interviews with designers 
+## A curated collection of interviews with designers 
+
+### Setup
+- Jekyll
